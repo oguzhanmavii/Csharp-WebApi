@@ -1,0 +1,15 @@
+E:\web\first_webapi_app\HotelFinder.Entities\bin\Debug\net5.0\HotelFinder.Entities.deps.json
+E:\web\first_webapi_app\HotelFinder.Entities\bin\Debug\net5.0\HotelFinder.Entities.runtimeconfig.json
+E:\web\first_webapi_app\HotelFinder.Entities\bin\Debug\net5.0\HotelFinder.Entities.runtimeconfig.dev.json
+E:\web\first_webapi_app\HotelFinder.Entities\bin\Debug\net5.0\HotelFinder.Entities.dll
+E:\web\first_webapi_app\HotelFinder.Entities\bin\Debug\net5.0\ref\HotelFinder.Entities.dll
+E:\web\first_webapi_app\HotelFinder.Entities\bin\Debug\net5.0\HotelFinder.Entities.pdb
+E:\web\first_webapi_app\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\first_webapi_app\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.AssemblyInfoInputs.cache
+E:\web\first_webapi_app\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.AssemblyInfo.cs
+E:\web\first_webapi_app\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.csproj.CoreCompileInputs.cache
+E:\web\first_webapi_app\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.dll
+E:\web\first_webapi_app\HotelFinder.Entities\obj\Debug\net5.0\ref\HotelFinder.Entities.dll
+E:\web\first_webapi_app\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.pdb
+E:\web\first_webapi_app\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.genruntimeconfig.cache
+E:\web\first_webapi_app\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.csproj.AssemblyReference.cache
